@@ -1,6 +1,6 @@
 # EPUB2GIF
 
-Get a gif from all the pictures in an EPUB file. 
+Create a gif out of all the pictures included in an EPUB file. 
 
 ## Dependencies
 
